@@ -5,7 +5,7 @@
 - ブラウザで、/webtool/wp-admin/ にアクセスしてください。
 - 画面に従ってインストールを進めてください。
 
-詳しくは以下のサイトを参照してください。
+詳しくは以下のサイトを参照してください。  
 https://ja.wordpress.org/support/article/how-to-install-wordpress/#%e6%89%8b%e9%a0%865-%e3%82%a4%e3%83%b3%e3%82%b9%e3%83%88%e3%83%bc%e3%83%ab%e3%82%b9%e3%83%97%e3%83%aa%e3%83%88%e3%81%ae%e5%ae%9f%e8%a1%8c
 
 ## WPに関して
